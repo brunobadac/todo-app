@@ -1,2 +1,11 @@
-# todo-app
-Minimal Todo List app using JavaScript with local storage support for persistent task management.
+# Todo App
+
+A basic to-do list built with JavaScript.
+
+## Features
+- Add tasks
+- Remove tasks
+
+## Tech
+- HTML
+- JavaScript
